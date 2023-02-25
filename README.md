@@ -1,4 +1,3 @@
-# Divide-and-Conquer-Grouping-Distillation
 This is the personal implementation of IE-FT code. Reference resources is [here](https://github.com/aliyun/Revisiting-Knowledge-Distillation-an-Inheritance-and-Exploration-Framework)
 
 ## Requirements
